@@ -1,0 +1,17 @@
+.form {
+  width: 300px;
+  padding: 10px;
+  border: 2px solid #000000;
+}
+.input {
+  display: block;
+  margin-bottom: 10px;
+}
+.button {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #ffffff;
+  border: 1px solid gray;
+  border-radius: 3px;
+  cursor: pointer;
+}
